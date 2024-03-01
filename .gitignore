@@ -1,0 +1,11 @@
+# Ignore media files for README
+*.png
+*.jpg
+*.gif
+*.bmp
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mp3
+*.ogg
